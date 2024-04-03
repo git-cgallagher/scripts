@@ -14,7 +14,7 @@
 
   .EXAMPLE
   PS> .\defender_rtp.ps1
-    win.defender.RealTimeProtectionEnabled 1 source=US00SMGTA
+    win.defender.RealTimeProtectionEnabled 1 source=DC99SVR1
 
   .NOTES
   Github: @git-cgallagher
